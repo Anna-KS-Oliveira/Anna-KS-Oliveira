@@ -41,8 +41,7 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AnnaOliveira}/count.svg" /></p> 
 <br>
-  <img align="width="200px" height="200px" src="https://media.discordapp.net/attachments/1238249305689817150/1238249622447849523/20240509_183859.gif?ex=663e9953&is=663d47d3&hm=76d509bf6443e671bd58df4eed5fb288788bf398e155e536bebf423ec4c06ee7&">
-</div>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b65fcf&height=120&section=footer"/>
