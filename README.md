@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">  
-  <a href="mailto:annasilva15200@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"</a>
+  <a href="mailto:annafacul2024@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"</a>
     <a href="https://www.linkedin.com/in/anna-oliveira-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div> 
  
